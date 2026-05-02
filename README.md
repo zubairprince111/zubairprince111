@@ -50,15 +50,13 @@
 
 ###
 
-<div align="left">
-  <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHgxbWZjeGx0dGJnNWEzaXEyaW1uenhrdWV0d3cxc3VteGlwMnByOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xRKq7KoJDEtegaYb3h/giphy.gif" />
-  
+<p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zubairprince111/zubairprince111/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zubairprince111/zubairprince111/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zubairprince111/zubairprince111/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zubairprince111/zubairprince111/output/pacman-contribution-graph-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zubairprince111/zubairprince111/output/pacman-contribution-graph.svg?v=2">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zubairprince111/zubairprince111/output/pacman-contribution-graph.svg?v=2">
+  </picture>&nbsp;&nbsp;&nbsp;&nbsp;<img height="170" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHgxbWZjeGx0dGJnNWEzaXEyaW1uenhrdWV0d3cxc3VteGlwMnByOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xRKq7KoJDEtegaYb3h/giphy.gif" />
+</p>
 ###
 
 <p align="left">* I am currently pursuing my Bachelor of Science in Computer Science and Engineering at International University of Business Agriculture and Technology (IUBAT), expected to graduate in December 2026.<br>* I am the Co-Founder and Technical/Web Director at Olayo, where I spearhead backend architecture and manage the full software development lifecycle.<br>*  I recently launched **Biriyani Dibe**, a viral crowdsourced map app that scaled to 100,000+ active users with zero downtime during the Ramadan 2025 season.<br>* I am also the Co-Founder of the Binnash Foundation, a non-profit dedicated to sustainable development and empowering underprivileged communities in Bangladesh.</p>
