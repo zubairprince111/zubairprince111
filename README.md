@@ -46,6 +46,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zubairprince111/zubairprince111/output/pacman-contribution-graph-dark.svg?v=2">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zubairprince111/zubairprince111/output/pacman-contribution-graph.svg?v=2">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zubairprince111/zubairprince111/output/pacman-contribution-graph.svg?v=2">
-  </picture>&nbsp;&nbsp;&nbsp;&nbsp;<img height="170" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHgxbWZjeGx0dGJnNWEzaXEyaW1uenhrdWV0d3cxc3VteGlwMnByOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xRKq7KoJDEtegaYb3h/giphy.gif" />
+  
 </p>
 
