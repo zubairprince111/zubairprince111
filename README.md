@@ -34,10 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
   <img width="12" />
 
-</div>
-<div align="center">
- <p><strong>Portfolio:</strong> <a href="https://www.aajubair.me" target="_blank">www.aajubair.me</a></p>
-</div>
+
 
 <p align="center">
   <picture>
@@ -46,3 +43,8 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zubairprince111/zubairprince111/output/pacman-contribution-graph.svg?v=2">
   </picture>
 </p>
+
+</div>
+<div align="center">
+ <p><strong>Portfolio:</strong> <a href="https://www.aajubair.me" target="_blank">www.aajubair.me</a></p>
+</div>
