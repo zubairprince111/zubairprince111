@@ -1,11 +1,3 @@
-
-<div align="center">
-  <h1>👋 Welcome to My Profile</h1>
-  <p><strong>Portfolio:</strong> <a href="https://www.aajubair.me" target="_blank">www.aajubair.me</a></p>
-</div>
-
----
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -43,7 +35,9 @@
   <img width="12" />
 
 </div>
-
+<div align="center">
+ <p><strong>Portfolio:</strong> <a href="https://www.aajubair.me" target="_blank">www.aajubair.me</a></p>
+</div>
 
 <p align="center">
   <picture>
