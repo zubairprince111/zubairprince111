@@ -1,6 +1,10 @@
 
+<div align="center">
+  <h1>👋 Welcome to My Profile</h1>
+  <p><strong>Portfolio:</strong> <a href="https://www.aajubair.me" target="_blank">www.aajubair.me</a></p>
+</div>
 
-
+---
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -46,6 +50,5 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zubairprince111/zubairprince111/output/pacman-contribution-graph-dark.svg?v=2">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zubairprince111/zubairprince111/output/pacman-contribution-graph.svg?v=2">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zubairprince111/zubairprince111/output/pacman-contribution-graph.svg?v=2">
-  
+  </picture>
 </p>
-
